@@ -1,2 +1,2 @@
-这是一个自己编译的自用的openwrt系统
-使用的是lean的lede的软件仓库
+这是一个自己编译的自用的openwrt系统，使用的是lean的lede软件仓库
+
